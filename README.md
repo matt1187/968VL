@@ -31,7 +31,7 @@ Full history ->  https://www.vogons.org/viewtopic.php?f=63&t=76602
 - [**pleas read file " note_MK_968VL_002.txt"**](https://github.com/matt1187/968VL/blob/main/gerber/note_MK_968VL_002.txt)
 - [csv file](https://github.com/matt1187/968VL/blob/main/gerber/968.csv)
 - [gerber file](https://github.com/matt1187/968VL/blob/main/gerber/)
-
+- [drawing of pc bracket](https://github.com/matt1187/968VL/blob/main/mechanical/bracket_968VL_01.pdf)
 
 # Driver & ROM 
 - [ROM dump](https://github.com/matt1187/968VL/blob/main/rom/968V_ROM.zip)
