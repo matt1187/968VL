@@ -49,5 +49,7 @@ Full history ->  https://www.vogons.org/viewtopic.php?f=63&t=76602
 - 002 minor bug fixing (wrong footprint)
 
 
-# Licence
+# License
 The project is free for non-commercial reproduktion. Do not sell it on ebay or other platforms for profit. Do not make a closed source. Share your experiences and ideas with the community.
+CC NC BY SA
+
