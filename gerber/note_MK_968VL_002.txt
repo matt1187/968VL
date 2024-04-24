@@ -1,0 +1,29 @@
+Notice for make of   MK_968VL_002 card.
+
+1.) most important: your risk  and  no right by full support.
+
+
+Component-list:
+U33			let U33 empty,  DDC Interface doesn't run right (and failed hardware cursor)
+L3 & U11 	place L3 OR  U11, you must not place both at same time. I recommend  place  78L05 for better PLL stability
+
+C155		optional, place it if 968VL is  restarting sometimes.
+C103,C104,C105  optional, recommend for improvement of pictures quality.
+All 10nF capacitor can be replaced with 100nF capacitor, recommend.   10nF was old design value
+
+count without  units = resistor  (example: 10 = 10 ohm )
+
+Config-Resistor with 47k resistor, pleas see attached pictures "config_resistor.jpg".
+
+
+PCB-making: jlcpcb can make this pcb. 5 pieces  ~$45
+
+Important: 
+4 layers
+Impedance JLC7628
+PCB thick : 1.6mm
+Gold finger: recommend yes with option "45°finger chamfered"
+FR-Material: TG130-140C (Standard)
+Flying probe test: YES
+Copper weight  1oz
+
