@@ -38,6 +38,7 @@ Full history ->  https://www.vogons.org/viewtopic.php?f=63&t=76602
 
 
 
+
 # PCB Revision History
 - 000 initial draft
 - 001 major bug fixing (swapped innere layer, few wrong connection on ICs )
