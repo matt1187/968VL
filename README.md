@@ -18,7 +18,7 @@ Full history ->  https://www.vogons.org/viewtopic.php?f=63&t=76602
 - Win 3.1 and Win9x driver available
 
   
-# Issuses
+# Issues
 - DDC interface not working, no fixing in future, sorry.
 - heavy find of  S3 Vision968 (86C968) chip
 - Card would work with S3 Vision964 (86C964) , but it need modification of VGA-ROM (difference register ) for correct working text/CGA/MDA-mode
