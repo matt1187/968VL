@@ -1,6 +1,7 @@
 # Project  MK-968VL 
 A (old) project for 486 platform: S3 Vision 968 VLB with 4MB VRAM.
 It is just a  Replica of  SPEA Mercury P64V PCI, which their PCI interface is replaced by  VLB interface.
+It is my first project with KiCad, it may sometime be not soo good and weird.
 
 Full history ->  https://www.vogons.org/viewtopic.php?f=63&t=76602
 
@@ -27,14 +28,16 @@ Full history ->  https://www.vogons.org/viewtopic.php?f=63&t=76602
 
 
 # Bill of material
-- [**pleas read file " note_MK_968VL_002.txt"**](https://github.com/matt1187/968VL/gerber/note_MK_968VL_002.txt)
-- [Gerber file](https://github.com/matt1187/968VL/gerber/968.csv)
+- [**pleas read file " note_MK_968VL_002.txt"**](https://github.com/matt1187/968VL/blob/main/gerber/note_MK_968VL_002.txt)
+- [csv file](https://github.com/matt1187/968VL/blob/main/gerber/968.csv)
+- [gerber file](https://github.com/matt1187/968VL/blob/main/gerber/)
 
 
-# driver & ROM 
-- [ROM dump](https://github.com/matt1187/968VL/rom/968V_ROM.zip)]
-- [Windows 9x driver] (https://github.com/matt1187/968VL/driver/W95_S3_driver 0109B.zip)]
-- [Windows 3.1 driver](https://github.com/matt1187/968VL/driver/WIN31_vision96815B4.ZIP)]
+# Driver & ROM 
+- [ROM dump](https://github.com/matt1187/968VL/blob/main/rom/968V_ROM.zip)
+- [Windows 9x driver](https://github.com/matt1187/968VL/blob/main/driver/W95_S3_driver%200109B.ZIP)
+- [Windows 3.1 driver](https://github.com/matt1187/968VL/blob/main/driver/WIN31_vision96815B4.ZIP)
+
 
 
 
