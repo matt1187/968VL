@@ -15,7 +15,7 @@ Full history ->  https://www.vogons.org/viewtopic.php?f=63&t=76602
 - 4 MB VRAM
 - 175/220 MHz highquality RAMDAC
 - mostly case: rock solid  50 MHz bus-clock with zero wait-state
-- Win 3.1 and Win9x driver aviable
+- Win 3.1 and Win9x driver available
 
   
 # Issuses
