@@ -1,40 +1,40 @@
 # Project  MK-968VL 
-A (old) project for 486 platform: S3 Vision 968 VLB with 4MB VRAM.
-It is just a  Replica of  SPEA Mercury P64V PCI, which their PCI interface is replaced by  VLB interface.
-It is my first project with KiCad, it may sometime be not soo good and weird.
+An (old) project for 486 platform: S3 Vision 968 VLB with 4MB VRAM.
+It is just a Replica of the SPEA Mercury P64V PCI, in which their PCI interface was replaced by a VLB interface.
+It is my first project with KiCad, it may sometimes look not so good and weird.
 
-Full history ->  https://www.vogons.org/viewtopic.php?f=63&t=76602
+[Full development history at Vogons](https://www.vogons.org/viewtopic.php?f=63&t=76602)
 
 ![pictures](https://github.com/matt1187/968VL/blob/main/picture/968VL_1.jpg)
 
 
 
 
-# Feartures
-- S3 Vision968 video chipset, one of  fastest windows accelerator for 486 VESA local bus platform.
+# Features
+- S3 Vision968 video chipset, one of fastest Windows accelerator for the 486 VESA local bus platform
 - 4 MB VRAM
-- 175/220 MHz highquality RAMDAC
-- mostly case: rock solid  50 MHz bus-clock with zero wait-state
-- Win 3.1 and Win9x driver available
+- 175/220 MHz high quality RAMDAC
+- Mostly rock solid 50 MHz bus clock with zero wait states
+- Win 3.1 and Win 9x driver available
 
   
 # Issues
-- DDC interface not working, no fixing in future, sorry.
-- heavy find of  S3 Vision968 (86C968) chip
-- Card would work with S3 Vision964 (86C964) , but it need modification of VGA-ROM (difference register ) for correct working text/CGA/MDA-mode
+- DDC interface is not working, fixing in future is not planned, sorry.
+- heavy to find a S3 Vision968 (86C968) chip
+- Card would work with a S3 Vision964 (86C964) too, but that would need modification of VGA-ROM (difference in registers) so that text/CGA/MDA modes work correctly
 
  
 
 
 
-# Bill of material
-- [**pleas read file " note_MK_968VL_002.txt"**](https://github.com/matt1187/968VL/blob/main/gerber/note_MK_968VL_002.txt)
+# Bill of Materials
+- [**please read file "note_MK_968VL_002.txt"**](https://github.com/matt1187/968VL/blob/main/gerber/note_MK_968VL_002.txt)
 - [config resistor picture](https://github.com/matt1187/968VL/blob/main/gerber/config_resistor.JPG)
-- [csv file](https://github.com/matt1187/968VL/blob/main/gerber/968.csv)
-- [gerber file](https://github.com/matt1187/968VL/blob/main/gerber/)
-- [drawing of pc bracket](https://github.com/matt1187/968VL/blob/main/mechanical/bracket_968VL_01.pdf)
+- [bom csv file](https://github.com/matt1187/968VL/blob/main/gerber/968.csv)
+- [gerber files](https://github.com/matt1187/968VL/blob/main/gerber/)
+- [drawing of slot bracket](https://github.com/matt1187/968VL/blob/main/mechanical/bracket_968VL_01.pdf)
 
-# Driver & ROM 
+# Drivers & ROM
 - [ROM dump](https://github.com/matt1187/968VL/blob/main/rom/968V_ROM.zip)
 - [Windows 9x driver](https://github.com/matt1187/968VL/blob/main/driver/W95_S3_driver%200109B.ZIP)
 - [Windows 3.1 driver](https://github.com/matt1187/968VL/blob/main/driver/WIN31_vision96815B4.ZIP)
@@ -45,11 +45,17 @@ Full history ->  https://www.vogons.org/viewtopic.php?f=63&t=76602
 
 # PCB Revision History
 - 000 initial draft
-- 001 major bug fixing (swapped innere layer, few wrong connection on ICs )
+- 001 major bug fixing (swapped inner layer, few wrong connections on ICs)
 - 002 minor bug fixing (wrong footprint)
 
 
 # License
-The project is free for non-commercial reproduktion. Do not sell it on ebay or other platforms for profit. Do not make a closed source. Share your experiences and ideas with the community.
-CC NC BY SA
+The project is free for non-commercial reproduction. Do not sell it on Ebay or other platforms for profit. Do not make a closed source derivative. Share your experiences and ideas with the community.
+
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
+
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
+
+[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
+[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
 
