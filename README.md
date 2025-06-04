@@ -1,5 +1,5 @@
 # Project  MK-968VL 
-An (old) project for 486 platform: S3 Vision 968 VLB with 4MB VRAM.
+An (old) project for 486 platform: Video card based S3 Vision 968 VLB with 4MB VRAM.
 It is just a Replica of the SPEA Mercury P64V PCI, in which their PCI interface was replaced by a VLB interface.
 It is my first project with KiCad, it may sometimes look not so good and weird.
 
