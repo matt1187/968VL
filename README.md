@@ -22,7 +22,7 @@ It is my first project with KiCad, it may sometimes look not so good and weird.
 - DDC interface is not working, fixing in future is not planned, sorry.
 - heavy to find a S3 Vision968 (86C968) chip
 - Card would work with a S3 Vision964 (86C964) too, but that would need modification of VGA-ROM (difference in registers) so that text/CGA/MDA modes work correctly
-
+- Some (many) TVP3026 DAC has issuses with VESA 4bit Mode: Line Jitter  (my original SPEA Mercury P64V PCI has also line jitter) Side notice: I have two 968VL with good 4bit VESA mode
  
 
 
@@ -47,7 +47,7 @@ It is my first project with KiCad, it may sometimes look not so good and weird.
 - 000 initial draft
 - 001 major bug fixing (swapped inner layer, few wrong connections on ICs)
 - 002 minor bug fixing (wrong footprint)
-
+- 003 new revision moved VGA port (keystone 9200-1 istead special)) and corrected ISA slot position (12.7mm instead 13 mm  to VLB )
 
 # License
 The project is free for non-commercial reproduction. Do not sell it on Ebay or other platforms for profit. Do not make a closed source derivative. Share your experiences and ideas with the community.
