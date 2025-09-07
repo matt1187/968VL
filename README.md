@@ -47,7 +47,7 @@ It is my first project with KiCad, it may sometimes look not so good and weird.
 - 000 initial draft
 - 001 major bug fixing (swapped inner layer, few wrong connections on ICs)
 - 002 minor bug fixing (wrong footprint)
-- 003 new revision moved VGA port (keystone 9200-1 istead special)) and corrected ISA slot position (12.7mm instead 13 mm  to VLB )
+- 003 new revision moved VGA port (keystone 9200-1 istead special pc slot bracket) and corrected ISA slot position (12.7mm instead 13 mm  to VLB )
 
 # License
 The project is free for non-commercial reproduction. Do not sell it on Ebay or other platforms for profit. Do not make a closed source derivative. Share your experiences and ideas with the community.
