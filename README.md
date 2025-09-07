@@ -32,7 +32,7 @@ It is my first project with KiCad, it may sometimes look not so good and weird.
 - [config resistor picture](https://github.com/matt1187/968VL/blob/main/gerber/config_resistor.JPG)
 - [bom csv file Rev 002 ](https://github.com/matt1187/968VL/blob/main/gerber/968.csv)
 - [gerber files Rev 002 ](https://github.com/matt1187/968VL/blob/main/gerber/)
-- [drawing of slot bracket](https://github.com/matt1187/968VL/blob/main/mechanical/bracket_968VL_01.pdf)
+- [drawing of slot bracket rev 000-002 ](https://github.com/matt1187/968VL/blob/main/mechanical/bracket_968VL_01.pdf)
 
 # Drivers & ROM
 - [ROM dump](https://github.com/matt1187/968VL/blob/main/rom/968V_ROM.zip)
