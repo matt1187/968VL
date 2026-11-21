@@ -33,7 +33,7 @@ It is my first project with KiCad, it may sometimes look not so good and weird.
 - [config resistor picture](https://github.com/matt1187/968VL/blob/main/gerber/config_resistor.JPG)
 - [bom csv file Rev 002 ](https://github.com/matt1187/968VL/blob/main/gerber/968_002.csv)
 - [gerber files Rev 002 ](https://github.com/matt1187/968VL/blob/main/gerber/968_002_gerber.zip)
-- [drawing of slot bracket rev 000-002 (only for 002) ](https://github.com/matt1187/968VL/blob/main/mechanical/bracket_968VL_01.pdf)
+- [drawing of slot bracket rev 000-002 (not for 003) ](https://github.com/matt1187/968VL/blob/main/mechanical/bracket_968VL_01.pdf)
 - [**968VL-003**]
 - [bom csv file Rev 003 ](https://github.com/matt1187/968VL/blob/main/gerber/968_003.csv)
 - [gerber files Rev 003 ](https://github.com/matt1187/968VL/blob/main/gerber/968_003_gerber.zip)
