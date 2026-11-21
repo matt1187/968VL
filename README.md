@@ -30,9 +30,12 @@ It is my first project with KiCad, it may sometimes look not so good and weird.
 # Bill of Materials
 - [**please read file "note_MK_968VL_002.txt"**](https://github.com/matt1187/968VL/blob/main/gerber/note_MK_968VL_002.txt)
 - [config resistor picture](https://github.com/matt1187/968VL/blob/main/gerber/config_resistor.JPG)
-- [bom csv file Rev 002 ](https://github.com/matt1187/968VL/blob/main/gerber/968.csv)
-- [gerber files Rev 002 ](https://github.com/matt1187/968VL/blob/main/gerber/)
+- [bom csv file Rev 002 ](https://github.com/matt1187/968VL/blob/main/gerber/968_002.csv)
+- [gerber files Rev 002 ](https://github.com/matt1187/968VL/blob/main/gerber/968_002_gerber.zip)
 - [drawing of slot bracket rev 000-002 ](https://github.com/matt1187/968VL/blob/main/mechanical/bracket_968VL_01.pdf)
+
+- [bom csv file Rev 003 ](https://github.com/matt1187/968VL/blob/main/gerber/968_003.csv)
+- [gerber files Rev 003 ](https://github.com/matt1187/968VL/blob/main/gerber/968_003_gerber.zip)
 
 # Drivers & ROM
 - [ROM dump](https://github.com/matt1187/968VL/blob/main/rom/968V_ROM.zip)
